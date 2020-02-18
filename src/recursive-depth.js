@@ -6,9 +6,5 @@ module.exports = class DepthCalculator {
         return 1;
         }
         }
-        for (var i = 0; i < arr.length; i++)
-            if (arr[i] == Array) {
-                sum++;
-            }
         
     }
